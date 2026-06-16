@@ -1,0 +1,6 @@
+[submodule "homeverse-be"]
+	path = homeverse-be
+	url = https://github.com/ntdat0102/homeverse-be
+[submodule "homeverse-fe"]
+	path = homeverse-fe
+	url = https://github.com/ntdat0102/homeverse-fe
